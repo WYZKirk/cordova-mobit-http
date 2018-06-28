@@ -1,0 +1,31 @@
+{
+  "name": "com.wyz.mobit.https",
+  "version": "1.0.0",
+  "description": "\n        Cordova / Phonegap plugin for communicating with HTTP servers using SSL pinning\n    ",
+  "cordova": {
+    "id": "com.wyz.mobit.https",
+    "platforms": [
+      "ios",
+      "android",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://fileshare.mobit.eu/cordova/mobit-http.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-browser"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "author": "wyz",
+  "license": "ISC"
+}
