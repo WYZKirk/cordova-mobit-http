@@ -1,7 +1,7 @@
 
 使用时需要添加 --variable SECRECT=value   value为https秘钥
 
-例git@fileshare.mobit.eu:cordova/https.git --variable SECRECT=value
+例ionic cordova plugin add https://github.com/WYZKirk/cordova-mobit-http.git --variable SECRECT=value
 
 https证书需要三个
 
